@@ -8,12 +8,12 @@
   <h3 align="center">Code Snippets</h3>
 
   <p align="center">
-    A small interface to document and keep track of common snippets used and their description
+    A small CRUD interface to document and keep track of common snippets used alongside with their description
     <br />
     <a href="https://github.com/stern9/nextjs-code-snippets"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/stern9/nextjs-code-snippets">View Demo</a>
+    <a href="">View Demo</a>
   </p>
 </p>
 
