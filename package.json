@@ -1,5 +1,5 @@
 {
-    "name": "nextjs-crash-course-fauna-swr-react-hook-form",
+    "name": "nextjs-code-snippets",
     "version": "0.1.0",
     "private": true,
     "scripts": {
@@ -13,6 +13,7 @@
         "react": "16.14.0",
         "react-dom": "16.14.0",
         "react-hook-form": "^6.10.1",
+        "react-icons": "^4.1.0",
         "swr": "^0.3.8"
     },
     "devDependencies": {
