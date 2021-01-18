@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Navbar />
-      <main className="max-w-2xl mx-auto px-8">
+      <main className="max-w-2xl mx-auto px-8 pb-3">
         <Intro />
         {snippets &&
           snippets.map((snippet) => (
