@@ -5,7 +5,8 @@
     "scripts": {
         "dev": "next dev",
         "build": "next build",
-        "start": "next start"
+        "start": "next start",
+        "deploy": "NODE_ENV=production webpack --mode production"
     },
     "dependencies": {
         "faunadb": "^3.0.1",
