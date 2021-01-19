@@ -1,19 +1,22 @@
 import Head from "next/head";
 import { getSnippetById } from "../../utils/Fauna";
 import SnippetForm from "../../components/SnippetForm";
+import Navbar from "../../components/Navbar";
+import Footer from "../../components/Footer";
 
 export default function Home({ snippet }) {
   return (
     <div>
       <Head>
-        <title>Update Next Snippet</title>
+        <title>Edit Snippet</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
-      <main className="max-w-lg mx-auto">
-        <h1 className="text-red-100 text-2xl mb-4">Update Snippet</h1>
+      <Navbar />
+      <main className="max-w-lg mx-auto pt-2 pb-4">
+        <h1 className="text-red-100 text-2xl mb-4">Edit Snippet</h1>
         <SnippetForm snippet={snippet} />
       </main>
+      <Footer />
     </div>
   );
 }
