@@ -10,10 +10,8 @@
   <p align="center">
     A small CRUD interface to document and keep track of common snippets used alongside with their description
     <br />
-    <a href="https://github.com/stern9/nextjs-code-snippets"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://nextjs-code-snippets-fsypzuokj.vercel.app/">View Demo</a>
+    <a href="https://nextjs-code-snippets-fsypzuokj.vercel.app/" target="_blank">View Demo »</a>
   </p>
 </p>
 
