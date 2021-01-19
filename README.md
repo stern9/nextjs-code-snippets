@@ -13,7 +13,7 @@
     <a href="https://github.com/stern9/nextjs-code-snippets"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="">View Demo</a>
+    <a href="https://nextjs-code-snippets-fsypzuokj.vercel.app/">View Demo</a>
   </p>
 </p>
 
